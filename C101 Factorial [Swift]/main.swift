@@ -16,7 +16,7 @@ func calculateFactorial(from n: Int) -> Int
 
     if (n <= 1)
     {
-        print("Terminal case, returning \(n).")
+        print("Terminal case, returning 1")
         return 1
     }
     else
